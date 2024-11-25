@@ -72,6 +72,5 @@ Any folded content here. It requires an empty line just above it!
 
 
 ### Connect with Me!
-Like my work? Send me a DM on Linkedin www.linkedin.com/in/axq
-[LinkedIn](https://www.linkedin.com/in/axq)
+Like my work? Send me a DM on [LinkedIn](https://www.linkedin.com/in/axq)
 
