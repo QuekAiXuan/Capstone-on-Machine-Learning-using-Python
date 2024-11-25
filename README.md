@@ -19,8 +19,13 @@ The dataset describes the physicochemical properties of red and white variants a
 * For better understanding, a larger and wider scope of the dataset is needed. 
 * Other critical factors affecting wine quality include grape varieties, terroir(natural environment in which grapes are grown) and winemaking techniques should also be taken into consideration.
 
-
 ### Insights
+
+* Check and ensure chlorides and volatile acidity levels are not excessive to ensure desirable wine taste.
+* Maintain an optimal amount of alcohol content for higher quality wine.
+* Keep density to a minimal amount for higher quality wine.
+* Maintain a desirable sulphates amount for wine preservation and taste balance.
+
 
 <details>
 <summary><b>Foldable hidden section</b></summary>
