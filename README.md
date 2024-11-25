@@ -47,16 +47,7 @@ Any folded content here. It requires an empty line just above it!
 
 
 <details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
 
-
-</details>
 
 ### What you learned
 * Fixed distorted Data Visuals by increasing the figure size such as the width for horizontal space and height for vertical space. 
