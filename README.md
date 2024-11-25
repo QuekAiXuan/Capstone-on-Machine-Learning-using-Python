@@ -75,4 +75,4 @@ Any folded content here. It requires an empty line just above it!
 Like my work? Send me a DM on www.linkedin.com/in/axq
 
 Like my work? Send me a DM on 
-[Linkedin www.linkedin.com/in/axq]
+Linkedin www.linkedin.com/in/axq
