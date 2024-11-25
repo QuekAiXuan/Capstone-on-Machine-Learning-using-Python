@@ -4,7 +4,7 @@
 
 ![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
 
-[Link to dataset](https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv)
+[Link to dataset][(https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 
 ### Description of dataset
 
