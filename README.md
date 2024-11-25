@@ -49,6 +49,10 @@ Any folded content here. It requires an empty line just above it!
 
 What you learned
 
-What you'd change
+### What you'd change
+* Use regression for data modeling. 
+* Compare dataset of other alcoholic beverages with existing dataset.
+* Obtain market research on food and wine pairing.
+
 
 Link to your LinkedIn
