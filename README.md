@@ -8,6 +8,9 @@
 #### Random Forest Classifier using Confusin Matrix as performance measurement
 ![download](https://github.com/user-attachments/assets/eabee132-6f4b-45bd-9b58-bc50c4f92b30)
 
+#### Model Summary
+![download](https://github.com/user-attachments/assets/fe523ce5-9c2b-4512-bad1-c890e8da1b86)
+
 
 [Link to dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 
