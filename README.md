@@ -10,7 +10,7 @@
 
 The dataset descirbes the physicochemical properties affecting wine quality. The dataset has a size of 1,599 rows.
 
-General observations
+### General observations
 
 <details>
 <summary><b>Foldable hidden section</b></summary>
