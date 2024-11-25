@@ -38,17 +38,6 @@ The dataset describes the physicochemical properties of red and white variants a
 * Maintain a desirable sulphates amount for wine preservation and taste balance.
 
 
-<details>
-<summary><b>Foldable hidden section</b></summary>
-
-Any folded content here. It requires an empty line just above it!
-
-</details>
-
-
-<details>
-
-
 ### What you learned
 * Fixed distorted Data Visuals by increasing the figure size such as the width for horizontal space and height for vertical space. 
 * Created x and y ticklabels with an array for quality of wine ranging from 3 to 8 for missing quality range of wine.
