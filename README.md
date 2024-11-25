@@ -1,6 +1,6 @@
 # Capstone on Machine Learning using Python
 
-### An analysis of snake-eating squirrels in Peru in 1988
+### Wine Quality Prediction with Machine Learning
 
 ![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
 
