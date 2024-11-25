@@ -2,6 +2,9 @@
 
 ### Wine Quality Prediction with Machine Learning
 
+#### Histogram plot of continuous features
+![download](https://github.com/user-attachments/assets/2910b4fb-6700-4e18-b1f5-0708c78d41ad)
+
 #### Pairplot showing the correlations of variables
 ![download](https://github.com/user-attachments/assets/d3e3a351-0e47-4300-bfaa-1e557a0af600)
 
