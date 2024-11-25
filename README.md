@@ -8,9 +8,10 @@
 
 ### Description of dataset
 
-The dataset descirbes the physicochemical properties affecting wine quality. The dataset has a size of 1,599 rows.
+The dataset describes the physicochemical properties of red and white variants affecting wine quality. The dataset has a size of 1,599 rows.
 
 ### General observations
+
 
 ### Insights
 
