@@ -1,7 +1,7 @@
 # Capstone on Machine Learning using Python
 
 ### Wine Quality Prediction with Machine Learning
-
+Random Forest Classifier using Confusin Matrix as performance measurement
 ![download](https://github.com/user-attachments/assets/eabee132-6f4b-45bd-9b58-bc50c4f92b30)
 
 
