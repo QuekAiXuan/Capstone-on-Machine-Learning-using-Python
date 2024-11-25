@@ -4,7 +4,7 @@
 Pairplot showing the correlations of variables
 ![download](https://github.com/user-attachments/assets/d3e3a351-0e47-4300-bfaa-1e557a0af600)
 
-Random Forest Classifier using Confusin Matrix as performance measurement
+#### Random Forest Classifier using Confusin Matrix as performance measurement
 ![download](https://github.com/user-attachments/assets/eabee132-6f4b-45bd-9b58-bc50c4f92b30)
 
 
