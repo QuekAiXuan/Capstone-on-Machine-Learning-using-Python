@@ -71,4 +71,6 @@ Any folded content here. It requires an empty line just above it!
 * Obtain market research on food and wine pairing.
 
 
-Link to your LinkedIn
+### Connect with Me!
+Like my work?Send me a DM on [Link to Linkedin](www.linkedin.com/in/axq)
+
