@@ -12,6 +12,8 @@ The dataset descirbes the physicochemical properties affecting wine quality. The
 
 ### General observations
 
+### Insights
+
 <details>
 <summary><b>Foldable hidden section</b></summary>
 
