@@ -1,7 +1,8 @@
 # Capstone on Machine Learning using Python
 
 ### Wine Quality Prediction with Machine Learning
-Pairplot showing the correlations of variables
+
+#### Pairplot showing the correlations of variables
 ![download](https://github.com/user-attachments/assets/d3e3a351-0e47-4300-bfaa-1e557a0af600)
 
 #### Random Forest Classifier using Confusin Matrix as performance measurement
