@@ -5,7 +5,7 @@
 ![download](https://github.com/user-attachments/assets/eabee132-6f4b-45bd-9b58-bc50c4f92b30)
 
 
-![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
+
 
 [Link to dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 
